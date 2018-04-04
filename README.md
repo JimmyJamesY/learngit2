@@ -1,3 +1,3 @@
 # learngit2
 
-this is a modify
+this is a modity
